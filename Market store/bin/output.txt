@@ -1,0 +1,17 @@
+BRONZE:
+Purchase value: $150.00
+Discount rate: 0.00 %
+Discount: $0.00
+Total: $150.00
+
+SILVER:
+Purchase value: $850.00
+Discount rate: 3.50 %
+Discount: $29.75
+Total: $820.25
+
+GOLD:
+Purchase value: $1300.00
+Discount rate: 10.00 %
+Discount: $130.00
+Total: $1170.00
